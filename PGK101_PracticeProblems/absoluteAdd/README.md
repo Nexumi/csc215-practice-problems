@@ -1,4 +1,6 @@
-> Create method absoluteAdd<br>By: Jimmy Pan
+# [Create method absoluteAdd](../)
+
+> By: Jimmy Pan
 
 <hr>
 

@@ -1,4 +1,6 @@
-> Create method countingByOne<br>By: Jimmy Pan
+# [Create method countingByOne](../)
+
+> By: Jimmy Pan
 
 <hr>
 

@@ -1,4 +1,6 @@
-> Trace nested if/else if/else statements<br>By: Jimmy Pan
+# [Trace nested if/else if/else statements](../)
+
+> By: Jimmy Pan
 
 <hr>
 
