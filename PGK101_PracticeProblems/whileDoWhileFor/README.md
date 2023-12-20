@@ -1,4 +1,4 @@
-# [while <-> do-while <-> for](./)
+# [while <-> do-while <-> for](../)
 
 > By: Jimmy Pan
 

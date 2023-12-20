@@ -1,4 +1,4 @@
-# [if/else if/else <-> switch/case](./)
+# [if/else if/else <-> switch/case](../)
 
 > By: Jimmy Pan
 
