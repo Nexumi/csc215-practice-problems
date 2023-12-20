@@ -1,7 +1,7 @@
 # [PGK101_PracticeProblems](../)
 
-- [Create method absoluteAdd](absoluteAdd)
-- [Trace nested if/else if/else statements](nestedMysteryCode)
-- [Create method countingByOne](countingByOne)
-- [if/else if/else <-> switch/case](ifSwitch)
-- [while <-> do-while <-> for](whileDoWhileFor)
+1. [Create method absoluteAdd](absoluteAdd)
+2. [Trace nested if/else if/else statements](nestedMysteryCode)
+3. [Create method countingByOne](countingByOne)
+4. [if/else if/else <-> switch/case](ifSwitch)
+5. [while <-> do-while <-> for](whileDoWhileFor)
