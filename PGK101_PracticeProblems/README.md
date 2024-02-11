@@ -5,3 +5,5 @@
 3. [Create method countingByOne](countingByOne)
 4. [if/else if/else ⇔ switch/case](ifSwitch)
 5. [while ⇔ do-while ⇔ for](whileDoWhileFor)
+6. [Tracing Method Calls](methodTrace)
+7. [Return Object Array](objectType)
