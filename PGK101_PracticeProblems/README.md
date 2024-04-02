@@ -7,3 +7,4 @@
 5. [while ⇔ do-while ⇔ for](whileDoWhileFor)
 6. [Tracing Method Calls](methodTrace)
 7. [Return Object Array](objectType)
+8. [Debugging Practice](debuggingPractice)
