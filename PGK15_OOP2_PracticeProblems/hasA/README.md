@@ -15,7 +15,7 @@ public class Main {
     }
 }
 
-public class A {
+class A {
     private B b;
     private int c;
 
@@ -35,7 +35,7 @@ public class A {
     }
 }
 
-public class B {
+class B {
     private int c;
     
     public B() {

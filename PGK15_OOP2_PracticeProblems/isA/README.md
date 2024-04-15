@@ -12,6 +12,7 @@ public class Main {
         A a = new A();
         B b = new B();
         A ab = new B();
+        B ba = (B) ab;
 
         a.one();
         a.two();
@@ -19,10 +20,12 @@ public class Main {
         b.two();
         ab.one();
         ab.two();
+        ba.one();
+        ba.two();
     }
 }
 
-public class A {
+class A {
     public A() {
     }
 
@@ -35,7 +38,7 @@ public class A {
     }
 }
 
-public class B extends A {
+class B extends A {
     public B() {
     }
 
