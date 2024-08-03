@@ -23,9 +23,19 @@ int[] array = generateArray1to100(20);
 System.out.println(Arrays.toString(array));
 minMaxOddEven(array);
 ```
+
+## Sample Outputs
 ```
 minEven: 8
 maxEven: 96
 minOdd: 13
 maxOdd: 95
+```
+
+It is possible to not have even/odd numbers and for the min/max to be the same number!
+```
+minEven: None
+maxEven: None
+minOdd: 52
+maxOdd: 52
 ```
