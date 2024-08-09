@@ -16,7 +16,7 @@ System.out.println(Arrays.toString(generateArray1to100(12)));
 ```
 - Problem 2: Using the array of random numbers generator from Problem 1, print out the smallest even and odd number, and the largest even and odd number.
     - This problem may be a bit tricky. It is different from a standard find the smallest/largest problem. But a hint that may help is that the array from problem 1 is always numbers from 1 to 100.
-    - Think about edge cases! If you aren't sure about it, just ask.
+    - Think about edge cases! How should your code behave when there are no odd/even numbers?
 
 ```java
 int[] array = generateArray1to100(20);
