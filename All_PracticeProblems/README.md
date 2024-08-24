@@ -1,4 +1,4 @@
-# # Create method absoluteAdd
+# Create method absoluteAdd
 
 > By: Jimmy Pan
 
@@ -13,7 +13,7 @@ System.out.println(absoluteAdd(-3, 1)); // 4
 System.out.println(absoluteAdd(9, 4)); // 13
 ```
 
-# # Create method countingByOne
+# Create method countingByOne
 
 > By: Jimmy Pan
 
@@ -28,7 +28,7 @@ countingByOne(12, 19); // 12, 13, 14, 15, 16, 17, 18, 19
 countingByOne(1, 1); // 1
 ```
 
-# # Debugging Practice
+# Debugging Practice
 
 > By: Turk Erdin
 
@@ -91,7 +91,7 @@ public class DebuggingPractice {
 }
 ```
 
-# # if/else if/else <-> switch/case
+# if/else if/else <-> switch/case
 
 > By: Jimmy Pan
 
@@ -109,7 +109,7 @@ Enter a day of the week (0 - 6): 15
 15 is an invalid day of the week
 ```
 
-# # Trace nested if/else if/else statements
+# Trace nested if/else if/else statements
 
 > By: Jimmy Pan
 
@@ -169,7 +169,7 @@ public class NestedMysteryCode {
 }
 ```
 
-# # while <-> do-while <-> for
+# while <-> do-while <-> for
 
 > By: Jimmy Pan
 
@@ -201,7 +201,7 @@ Enter a number: -2
 Sum of all the numbers before the negative number is 17
 ```
 
-# # Array Declaration 2D
+# Array Declaration 2D
 
 > By: Jimmy Pan
 
@@ -228,7 +228,7 @@ $ % ^
 & * ( )
 ```
 
-# # Array Declaration 3D
+# Array Declaration 3D
 
 > By: Jimmy Pan
 
@@ -273,7 +273,7 @@ Row 2:
     - =
 ```
 
-# # Random number generation + Search for value
+# Random number generation + Search for value
 
 > By: Jimmy Pan
 
@@ -315,7 +315,7 @@ minOdd: 52
 maxOdd: 52
 ```
 
-# # Array Search 2D
+# Array Search 2D
 
 > By: Jimmy Pan
 
@@ -392,7 +392,7 @@ princesswizard
 unicorn
 ```
 
-# # Managing and manipulating array contents
+# Managing and manipulating array contents
 
 > By: Jimmy Pan
 
@@ -414,7 +414,7 @@ System.out.println(Arrays.toString(array)); // [49, 1, 16, 81, 324, 5184, 1296, 
 System.out.println(average(array)); // 1397
 ```
 
-# # Generate Random Numbers
+# Generate Random Numbers
 
 > By: Jimmy Pan
 
@@ -434,7 +434,7 @@ public static void main(String[] args) {
 }
 ```
 
-# # Tracing Method Calls
+# Tracing Method Calls
 
 > By: Jimmy Pan
 
@@ -479,7 +479,7 @@ public class Main {
 }
 ```
 
-# # Complete The Coin Machine
+# Complete The Coin Machine
 
 > By: Jimmy Pan
 
@@ -638,7 +638,7 @@ Coins used:
 1¢        0
 ```
 
-# # HAS-A
+# HAS-A
 
 > By: Jimmy Pan
 
@@ -695,7 +695,7 @@ class B {
 }
 ```
 
-# # IS-A
+# IS-A
 
 > By: Jimmy Pan
 
@@ -746,7 +746,7 @@ class B extends A {
 }
 ```
 
-# # (Trick or Treat) and Trace!
+# (Trick or Treat) and Trace!
 
 > By: Jimmy Pan
 
