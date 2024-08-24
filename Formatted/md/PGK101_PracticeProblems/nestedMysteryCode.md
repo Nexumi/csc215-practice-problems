@@ -1,8 +1,6 @@
-# [Trace nested if/else if/else statements](../)
+# Trace nested if/else if/else statements
 
 > By: Jimmy Pan
-
-<hr>
 
 - What will get printed onto the console? No IDE!
 

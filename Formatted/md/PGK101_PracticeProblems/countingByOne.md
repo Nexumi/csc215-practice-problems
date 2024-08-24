@@ -1,8 +1,6 @@
-# [Create method countingByOne](../)
+# Create method countingByOne
 
 > By: Jimmy Pan
-
-<hr>
 
 - Create a method that takes 2 integers, print out the numbers from the first number to the second number changing by a count of 1.
     - Don't worry about how the output looks. As long as the numbers are printed in the right order.

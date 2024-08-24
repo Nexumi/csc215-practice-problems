@@ -1,8 +1,6 @@
-# [Generate Random Numbers](../)
+# Generate Random Numbers
 
 > By: Jimmy Pan
-
-<hr>
 
 - Create a method that generates a random String of length 6, using only 0-9 and a-f, then add `0x` in front of it. Also generate a random number from 1 to 16777215.
     - Please use the given main method and do not make any modifications to it.

@@ -1,8 +1,6 @@
-# [Array Search 2D](../)
+# Array Search 2D
 
 > By: Jimmy Pan
-
-<hr>
 
 - Problem 1: Create a method that takes in a string array. Then print out all words that are of length 6 or more.
 

@@ -1,8 +1,6 @@
-# [HAS-A](../)
+# HAS-A
 
 > By: Jimmy Pan
-
-<hr>
 
 - Figure out the output of this code without the use of an IDE.
 

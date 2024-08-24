@@ -1,8 +1,6 @@
-# [Random number generation + Search for value](../)
+# Random number generation + Search for value
 
 > By: Jimmy Pan
-
-<hr>
 
 - Problem 1: Create a method that takes in an integer and generates an integer array of that size, filled with random numbers from 1 to 100 (inclusive)
 

@@ -1,8 +1,6 @@
-# [Complete The Coin Machine](../)
+# Complete The Coin Machine
 
 > By: Jimmy Pan
-
-<hr>
 
 - Complete the coin machine class.
     - Output does not need to match.

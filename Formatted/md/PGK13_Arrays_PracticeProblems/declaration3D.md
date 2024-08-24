@@ -1,8 +1,6 @@
-# [Array Declaration 3D](../)
+# Array Declaration 3D
 
 > By: Jimmy Pan
-
-<hr>
 
 - Problem 1: Create a method that takes a 3D array of characters and print them out as followed.
     - Output must match the sample output (headers for each row, a tab (\t), then the symbols)

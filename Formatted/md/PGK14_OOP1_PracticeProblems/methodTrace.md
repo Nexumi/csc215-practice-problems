@@ -1,8 +1,6 @@
-# [Tracing Method Calls](../)
+# Tracing Method Calls
 
 > By: Jimmy Pan
-
-<hr>
 
 - What is the output of this code?
 

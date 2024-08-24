@@ -1,8 +1,6 @@
-# [(Trick or Treat) and Trace!](../)
+# (Trick or Treat) and Trace!
 
 > By: Jimmy Pan
-
-<hr>
 
 - Figure out the output of this code without the use of an IDE.
 

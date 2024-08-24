@@ -1,8 +1,6 @@
-# [Debugging Practice](../)
+# Debugging Practice
 
 > By: Turk Erdin
-
-<hr>
 
 - The code below is broken. I have placed the expected output in the comments. Using the debugger tool and everything you've learned about loops, go through and debug this faulty code so it prints as expected.
 

@@ -1,8 +1,6 @@
-# [while <-> do-while <-> for](../)
+# while <-> do-while <-> for
 
 > By: Jimmy Pan
-
-<hr>
 
 - Create a method that repeatedly asks the user for an integer until either 10 numbers are entered or a negative number is entered. Sum up all the numbers entered by the user, excluding the negative number.
 	- Write 3 versions, using a different type of loop each time.

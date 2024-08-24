@@ -1,8 +1,6 @@
-# [Create method absoluteAdd](../)
+# Create method absoluteAdd
 
 > By: Jimmy Pan
-
-<hr>
 
 - Create a method that takes 2 integers, and returns the sum of the absolute value of both integers.
 

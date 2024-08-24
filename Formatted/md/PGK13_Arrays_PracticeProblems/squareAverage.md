@@ -1,8 +1,6 @@
-# [Managing and manipulating array contents](../)
+# Managing and manipulating array contents
 
 > By: Jimmy Pan
-
-<hr>
 
 - Problem 1: Create a method that takes in an array and squares each element in the array.
 - Problem 2: Create a method that takes the array from Problem 1, and calculate the average.
